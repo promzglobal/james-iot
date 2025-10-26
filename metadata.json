@@ -1,0 +1,5 @@
+{
+  "name": "IoT Control Dashboard",
+  "description": "A responsive IoT dashboard to monitor sensor data and control device settings, inspired by a mobile app design. Features simulated data fetching and updating, and uses the Gemini API to generate a Product Requirements Document for the application concept.",
+  "requestFramePermissions": []
+}
